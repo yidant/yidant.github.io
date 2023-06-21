@@ -16,4 +16,6 @@ Experienced interdisciplinary researches in Natural Language Processing, Physics
 
 Skilled in Software Engineering, Natural Language Processing, Machine Learning, Data Mining, Computational Physics, Mathematics, and Programming.
 
-Open to work and PhD opportunities! Here is my [resume](/files/Yidan TANG_Resume_0523.pdf).
+Open to work and PhD opportunities! 
+
+<!-- Here is my [resume](/files/Yidan TANG_Resume_0523.pdf). -->
